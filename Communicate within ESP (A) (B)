@@ -1,0 +1,3 @@
+Trying ESP32 (A) as server to give wifi access point and ESP32 (B) as client to get wifi access from ES32 (A).
+
+Note: Bluetooth Low Energy (BLE) devices, the RSSI range is typically between -127 dBm and 20 dBm, where a lower RSSI value indicates a stronger signal.
