@@ -1,0 +1,4 @@
+- Enabling ESP32 as a beacon by using different SSID and password, and then activating a smartphone to be able to detect the BLE that can be captured by the nRF Connect App.
+- Implementing one of the RSSI features of the ESP32 as a WiFi scan to determine the farthest and closest distance that can be received by the ESP32 when it becomes a client. 
+- Implementing one of the BLE features to return the RSSI value.
+
